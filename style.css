@@ -1,2 +1,23 @@
-h1{color:red};
-h2{color:brown};
+button{
+  color:#111;
+  font-size:60px;
+  padding:40px 80px 40px 80px;
+  background:#346622;  
+  display:inline-block;
+  border-radius:30px;
+  border:5px solid #551124;
+  margin:0 auto;
+}
+.container{
+    color: aqua;
+    width: 850px;
+    margin:0 auto;
+}
+.z1{
+  color:#367;
+  font-size:30px;
+}
+.z2{
+  color:#415;
+  font-size:30px;
+}
